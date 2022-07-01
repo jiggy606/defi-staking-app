@@ -1,3 +1,5 @@
+// const { artifacts } = require("truffle");
+
 const Tether = artifacts.require("Tether");
 const RWD = artifacts.require("RWD");
 const DecentralBank = artifacts.require("DecentralBank");
